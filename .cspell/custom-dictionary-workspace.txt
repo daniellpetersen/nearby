@@ -20,6 +20,7 @@ locais
 parceiros
 perto
 possível
+Pressable
 Qrcode
 tabler
 tipos
